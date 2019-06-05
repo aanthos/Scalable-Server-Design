@@ -1,8 +1,3 @@
-****NOTES****
-- The first entries for server statistics and client statistics show up after 20 seconds
-- batch time and batch size were not implemented. I tried to do so in my TaskQueue.java but I ran out of time, so I reverted it to how it worked before batch time and batch size
-
-
 File Descriptions
 
 cs455.scaling.hash
